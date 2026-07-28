@@ -1,0 +1,6 @@
+{
+  "name": "ShopKart E-Commerce",
+  "description": "Amazon & Flipkart style E-Commerce app with deals, category filters, cart, wishlist, orders, coupons, spin wheel & admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
